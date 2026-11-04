@@ -2,7 +2,7 @@
 [Kev Dev Studio] FiveM Cache Cleaner
 # 🛠️ FiveM Automatic Cache Cleaner
 
-[![Developer](https://discord.gg/kevdevstudio)
+![Developer](https://cdn.discordapp.com/attachments/1563851188099612682/1563852121483251792/image.png?ex=6aec5148&is=6aeaffc8&hm=81b197adf958deab92b3583c6b4d3cecf5bdc4426c367d37614a5d337aa86ebd&)
 
 Un tool leggero, sicuro e automatico sviluppato da **Kev Dev Studio** per pulire la cache di FiveM in un solo click, ottimizzare le prestazioni di gioco e risolvere i crash visivi.
 
